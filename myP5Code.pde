@@ -12,10 +12,17 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
   ellipse(200, 300, 150, 150);
-  ellipse(200, 200, 100, 100);
-  ellipse(200, 120, 75, 75);
-  
 
+  ellipse(200, 200, 100, 100);
+ 
+  ellipse(200, 120, 75, 75);
+  rect(100,180,50,5)
+  rect(246,180,50,5)
+  ellipse(185,110,10,15)
+ellipse(215,110,10,15)
+ellipse(200,125,9,7)
+rect (190,140,20,2)
+rect(150,78,100,2);
 }
 
 //🟡Extra FUN Features Ms. Hall Added
